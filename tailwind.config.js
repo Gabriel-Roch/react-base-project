@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-       gridTemplateRows: {
+      gridTemplateRows: {
         // Simple 16 row grid
         '16': 'repeat(16, minmax(0, 1fr))',
 
